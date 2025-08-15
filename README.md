@@ -1,0 +1,2 @@
+# winautoscript
+windows setup script
