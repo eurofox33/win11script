@@ -1,2 +1,2 @@
-# winautoscript
+# 🛠️ winautoscript
 windows setup script
