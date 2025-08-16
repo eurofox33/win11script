@@ -15,5 +15,5 @@ winget install VideoLAN.VLC
 
 winget install Git.Git
 winget install cURL.cURL
-winget install Neovim.Neovim
+winget install Microsoft.Edit
 winget install yt-dlp.yt-dlp
