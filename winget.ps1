@@ -8,6 +8,7 @@ winget install Microsoft.PowerToys
 winget install Discord.Discord
 winget install OBSProject.OBSStudio
 winget install VideoLAN.VLC
+winget install Valve.Steam
 
 # CLI Apps:
 
